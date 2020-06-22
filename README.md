@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Movie App yujin
+
+React Js 2020 movie app
+
+
 ## Available Scripts
 
 In the project directory, you can run:
