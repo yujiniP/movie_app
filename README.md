@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Movie App yujin
 
-React Js 2020 movie app
+React Js 2020 movie app // jennie start
 
 
 ## Available Scripts
